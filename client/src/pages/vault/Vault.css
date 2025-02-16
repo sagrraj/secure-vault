@@ -1,0 +1,15 @@
+.vault-table-header {
+    color: white !important;
+    font-size: 16px !important;
+    font-weight: bold !important;
+    text-align: center !important;
+}
+
+.vault-table-cell {
+    text-align: center !important;
+
+    button:hover {
+        font-weight: bold;
+        scale: 1.02;
+    }
+}
